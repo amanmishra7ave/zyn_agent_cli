@@ -28,7 +28,6 @@ You can use either Google's Gemini API or a local Ollama server.
 
 1.  **Set up your AI Provider in `.env`**:
     ```env
-    # Choose 'gemini' or 'ollama'
     AI_PROVIDER=gemini 
     ```
 
@@ -72,4 +71,3 @@ zyn-agent review path/to/your/file.js
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 - [Chalk](https://github.com/chalk/chalk)
 - [Ora](https://github.com/sindresorhus/ora)
-# zyn_agent_cli
