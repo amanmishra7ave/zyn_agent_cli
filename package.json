@@ -18,7 +18,7 @@
     "gemini",
     "ollama"
   ],
-  "author": "Antigravity",
+  "author": "poor_coder",
   "license": "MIT",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
